@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<QCARConfig xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="qcar_config.xsd">
+  <Tracking>
+    <ImageTarget name="fe8eb839-e5f6-45ec-a509-10813e74c448" size="1.000000 0.495370" />
+    <ImageTarget name="a8f1a95c-9b52-42e1-9ec2-3086ef09e251" size="1.000000 0.482759" />
+    <ImageTarget name="d517d00a-66fb-4cbf-98c2-e5bee515768f" size="1.000000 1.627507" />
+    <ImageTarget name="24c086f4-1f91-4552-a115-0d3ed7abc0bb" size="1.000000 0.646756" />
+    <ImageTarget name="154b4307-cc44-41db-bfaa-e84ee03d3e64" size="1.000000 0.601685" />
+    <ImageTarget name="142cc390-6642-487c-8d66-26d21635f3c2" size="1.000000 0.586245" />
+    <ImageTarget name="5bde44c6-6939-47db-b568-58d04506a269" size="1.000000 0.679279" />
+    <ImageTarget name="fe268665-4e39-4808-b239-a8144526e874" size="1.000000 0.534180" />
+    <ImageTarget name="7420e4c5-5920-4cbc-a27a-fec1df108442" size="1.000000 0.605469" />
+    <ImageTarget name="67bb11a4-a858-460c-9a32-f8d98b4e502a" size="1.000000 0.669375" />
+    <ImageTarget name="8a66667e-f0d9-401d-a16b-f62f66d084a4" size="1.000000 1.388889" />
+    <ImageTarget name="8a77ebef-14b7-43c5-8aa9-80f3c04822fb" size="1.000000 0.602428" />
+    <ImageTarget name="1ca2c1d5-b8aa-4f7a-b58d-6057a95e3525" size="1.000000 0.630435" />
+    <ImageTarget name="9ec42bae-f0f4-4a39-9b17-aa34705eaf76" size="1.000000 0.626875" />
+    <ImageTarget name="74c717ba-be5b-4c1d-bcc8-f501710e9cf0" size="1.000000 0.738281" />
+    <ImageTarget name="ae40f570-b97a-4ff7-a623-fa7fea4d2a92" size="1.000000 0.678129" />
+    <ImageTarget name="c25c407a-d256-4047-a692-9e4fcfd97a94" size="1.000000 0.634766" />
+    <ImageTarget name="bf929962-2854-44cc-a15a-69bf8f1de290" size="1.000000 0.659180" />
+    <ImageTarget name="317837c1-1726-4bc0-a5d7-1698b5e9b4c7" size="1.000000 0.608398" />
+    <ImageTarget name="2012b0c7-8db3-4560-a013-9846ccd04b75" size="1.000000 0.593750" />
+    <ImageTarget name="IMG-20221120-WA0114" size="1.000000 0.660156" />
+    <ImageTarget name="IMG-20221120-WA0111" size="1.000000 1.368984" />
+    <ImageTarget name="IMG-20221120-WA0112" size="1.000000 1.275218" />
+    <ImageTarget name="IMG-20221120-WA0107" size="1.000000 0.599609" />
+    <ImageTarget name="IMG-20221120-WA0105" size="1.000000 0.613281" />
+    <ImageTarget name="IMG-20221120-WA0104" size="1.000000 0.672852" />
+    <ImageTarget name="IMG-20221120-WA0102" size="1.000000 0.667969" />
+    <ImageTarget name="IMG-20221120-WA0103" size="1.000000 0.694336" />
+    <ImageTarget name="IMG-20221120-WA0101" size="1.000000 0.670898" />
+    <ImageTarget name="IMG-20221120-WA0100" size="1.000000 0.653320" />
+    <ImageTarget name="IMG-20221120-WA0099" size="1.000000 0.593750" />
+    <ImageTarget name="IMG-20221120-WA0098" size="1.000000 0.673828" />
+    <ImageTarget name="IMG-20221120-WA0097" size="1.000000 0.207031" />
+    <ImageTarget name="IMG-20221120-WA0096" size="1.000000 1.226347" />
+    <ImageTarget name="IMG-20221120-WA0092" size="1.000000 0.457031" />
+    <ImageTarget name="IMG-20221120-WA0091" size="1.000000 0.534180" />
+    <ImageTarget name="IMG-20221120-WA0090" size="1.000000 0.582031" />
+    <ImageTarget name="IMG-20221120-WA0089" size="1.000000 0.186523" />
+    <ImageTarget name="IMG-20221120-WA0088" size="1.000000 0.694336" />
+    <ImageTarget name="IMG-20221120-WA0087" size="1.000000 0.187500" />
+    <ImageTarget name="IMG-20221120-WA0086" size="1.000000 0.603516" />
+    <ImageTarget name="IMG-20221120-WA0085" size="1.000000 0.247070" />
+    <ImageTarget name="IMG-20221120-WA0084" size="1.000000 0.255859" />
+  </Tracking>
+</QCARConfig>
